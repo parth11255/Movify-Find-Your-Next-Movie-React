@@ -1,8 +1,9 @@
-# React + Vite
+# Movify: Find Your Next Movie 🎬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A React-based movie discovery application.**
 
-Currently, two official plugins are available:
+**Key Features:**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1) Search: Easily search for movies by title, genre, or actor.
+2) Browse: Explore trending movies, top-rated films, and upcoming releases.
+3) unfavourite/favourite movies
